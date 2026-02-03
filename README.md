@@ -7,16 +7,16 @@
 
 <!-- Stats -->
 <h2 align="center">🌆 Stats and Language 🌆</h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TranMC&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" />
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranMC&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
+</p> -->
 
 <!-- Streak -->
 <p align="center">----------------------------------------------------------------------------------------------------</p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TranMC" alt="Streak Stats" />
-</p>
+</p> -->
 
 <!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph 📉</h2>
@@ -29,7 +29,7 @@
 <!-- Featured Projects -->
 <details open> 
   <summary><h2>📘 Featured Projects</h2></summary>
-  <p align="left">
+  <!-- <p align="left">
     <a href="https://github.com/Justroamming/lms-finaltest">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Justroamming&repo=lms-finaltest&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="lms-finaltest">
     </a>
@@ -42,7 +42,7 @@
     <a href="https://github.com/TranMC/cursor-free-vip">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TranMC&repo=cursor-free-vip&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="cursor-free-vip">
     </a>
-  </p>
+  </p> -->
 
   <p align="center">
     <a href="https://github.com/TranMC?tab=repositories&sort=stargazers">

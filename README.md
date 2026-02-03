@@ -52,7 +52,7 @@
 </details>
 
 <!-- Trophies -->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/TranMC">
     <picture>
@@ -61,7 +61,7 @@
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=TranMC&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
-</p>
+</p> -->
 
 <!-- Thought of the Day -->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
